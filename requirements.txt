@@ -1,3 +1,4 @@
+requests
 httpx
 google-play-scraper
 pycryptodome
@@ -5,3 +6,5 @@ protobuf-decoder
 protobuf
 requests
 aiohttp
+Flask
+gunicorn
