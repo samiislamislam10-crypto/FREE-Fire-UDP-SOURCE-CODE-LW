@@ -1,0 +1,15 @@
+{
+    "7837930569": {
+        "unique_device_id": "Google|0fed03b0-1a4d-4d4f-b7f6-3a2129a7f931",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1440,
+        "screen_height": 2400,
+        "screen_dpi": "317",
+        "memory": 6279,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2337 | 6",
+        "client_ip": "153.183.72.98"
+    }
+}
